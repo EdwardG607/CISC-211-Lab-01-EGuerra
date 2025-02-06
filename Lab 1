@@ -1,0 +1,25 @@
+
+ 
+
+*****************************************************
+
+ 
+
+Currently loaded versions:
+Application version...........1.30.35 (0x01.0x1e.0x23)
+Tool pack version .............1.13.715
+Target voltage detected
+Target device ATSAME51J20A found.
+Device Revision Id  = 0x3
+Device Id = 0x61810004
+
+Calculating memory ranges for operation...
+
+Erasing...
+
+The following memory area(s) will be programmed:
+program memory: start address = 0x0, end address = 0x1fff
+configuration memory
+
+Due to the large memory ranges on this device, only the areas of memory that have been loaded with code (via the build process or loading a hex file) will be read by default. If you wish to read custom ranges, please go to the Memories to Program property page and specify the ranges you want to read.
+Programming complete
